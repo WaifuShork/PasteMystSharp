@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasteMystSharp", "src\PasteMystSharp\PasteMystSharp.csproj", "{B76DC481-15F4-4C4A-8540-4B39A378AAC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasteMystSharp.Tests", "src\PasteMystSharp.Tests\PasteMystSharp.Tests.csproj", "{A18BF240-BFAB-4918-8FEA-9AFD85F36D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasteMystSharp.Examples", "src\PasteMystSharp.Examples\PasteMystSharp.Examples.csproj", "{B904B743-D8E6-49DA-AEDE-386ED305968E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76DC481-15F4-4C4A-8540-4B39A378AAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76DC481-15F4-4C4A-8540-4B39A378AAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76DC481-15F4-4C4A-8540-4B39A378AAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76DC481-15F4-4C4A-8540-4B39A378AAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18BF240-BFAB-4918-8FEA-9AFD85F36D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18BF240-BFAB-4918-8FEA-9AFD85F36D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18BF240-BFAB-4918-8FEA-9AFD85F36D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18BF240-BFAB-4918-8FEA-9AFD85F36D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B904B743-D8E6-49DA-AEDE-386ED305968E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B904B743-D8E6-49DA-AEDE-386ED305968E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B904B743-D8E6-49DA-AEDE-386ED305968E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B904B743-D8E6-49DA-AEDE-386ED305968E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
